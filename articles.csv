@@ -1,0 +1,369 @@
+,id_articulo,id_revista,date,title
+0,0,0,2021-12-28,Construcción de una ontología para el área de transporte dentro de una cadena de suministro
+1,1,0,2021-12-28,Estudio para determinar melanoma en la piel usando técnicas de minería de datos
+2,2,0,2021-12-28,Aplicación de una metodología de escalamiento para el proyecto de gestión de transporte público GEOUS como apoyo a un proyecto de base tecnológica
+3,3,0,2021-12-28,Prototipo de robot controlado vía web para la docencia en cirugía
+4,4,0,2021-12-28,Adopción del Sistema Integrado de Gestión de Bibliotecas de código abierto Koha en las universidades de Lima
+5,5,0,2021-12-28,Aplicación y casos de uso de técnicas de inteligencia artificial contra el COVID 19
+6,6,0,2021-12-28,La gestión tecnológica actual en las universidades públicas peruanas
+7,7,0,2021-12-28,Análisis de sentimientos en la predicción de resultados de elecciones presidenciales
+8,8,0,2021-12-28,STT: Un sistema de apoyo a la transcripción de audiencias fiscales usando Vosk
+9,9,1,2013-07-30,"Modelado y diseño con herramientas de complejidad, presentación de algoritmos y aplicaciones. Caso mercado laboral en la Carrera de Ingeniería de Sistemas -UNMSM"
+10,10,1,2013-07-30,Diseño de un sistema de recuperación de imágenes de individuos malhechores para seguridad ciudadana
+11,11,1,2013-07-30,Categorización de Textos mediante Máquinas de Soporte Vectorial
+12,12,1,2013-07-30,Riesgos TIC desde una Perspectiva Interdisciplinaria
+13,13,1,2013-07-30,Implementación de un Datamart como una solución de Inteligencia de Negocios para el área de logística de T-Impulso
+14,14,1,2013-07-30,Revisión de las técnicas  existentes en Programación Genética para evolucionar las subrutinas
+15,15,1,2013-07-30,"Tecnología Multitouch, presente y futuro"
+16,16,1,2013-07-30,Un Algoritmo genético para la detección de fraude electrónico en tarjetas de débito en el Perú
+17,17,1,2013-07-30,Yield Management  aplicado a servicios de transporte y restaurantes
+18,18,2,2012-07-30,Un modelo de evaluación de factores críticos de éxito en la implementación de la seguridad en sistemas de información respecto a la intención del usuario
+19,19,2,2012-07-30,Diseño de un algoritmo genético para generar conocimiento presuntivo del síndrome metabólico
+20,20,2,2012-07-30,Un sistema basado en redes neuronales artificiales para diagnóstico de anemia ferropénica
+21,21,2,2012-07-30,"Sistema experto para el control de los procesos de monitoreo, control y evaluación de desempeño de los órganos de control institucional del Perú"
+22,22,2,2012-07-30,Creación e implementación del módulo para la generación del modelo del negocio en la herramienta Case StarUML usando tecnologías de libre disponibilidad
+23,23,2,2012-07-30,Revisión de modelos de adopción de E-commerce para pymes de países en desarrollo
+24,24,2,2012-07-30,Revisión de modelos de gestión de continuidad del negocio
+25,25,3,2011-12-30,Modelamiento del negocio desde el enfoque de un proceso de desarrollo de software
+26,26,3,2011-12-30,Descubrimiento de Conocimiento Basado en Grafos
+27,27,3,2011-12-30,Un modelo de Razonamiento Basado en Casos para la captación de requisitos en el desarrollo de proyectos de software
+28,28,3,2011-12-30,Un modelo difuso para el diagnóstico de alumnos universitarios con bajo rendimiento
+29,29,3,2011-12-30,Los modelos de gestión y su impacto en el desarrollo de la capacidad exportadora de las empresas PyMES nacionales de software
+30,30,3,2011-12-30,Análisis y Diseño de redes viales de transporte urbano usando algoritmos genéticos: Caso Lima Metropolitana
+31,31,3,2011-12-30,Implementación del algoritmo Watershed para el análisis de imágenes médicas
+32,32,3,2011-12-30,Posicionamiento en buscadores aplicando un modelo SEO
+33,33,3,2011-12-30,Desarrollo de un sistema móvil/web de georreferenciación para la difusión de ubicaciones de locales comerciales aplicando geosocialización
+34,34,3,2011-12-30,Inteligencia artificial y procesamiento computacional
+35,35,4,2011-07-29,Una propuesta de sistema inteligente para apoyar en el diagnóstico de la TBC utilizando ontologías y agentes de software
+36,36,4,2011-07-29,Indicadores de calidad en el desarrollo de Software
+37,37,4,2011-07-29,La seguridad de la información
+38,38,4,2011-07-29,Modelado de una herramienta web para el seguimiento integral del ciclo productivo de aplicaciones bajo el esquema de fábricas de software en entidades bancarias
+39,39,4,2011-07-29,Gestión de TI: identificando los servicios clave en la arquitectura deTI
+40,40,4,2011-07-29,Técnicas de análisis para el diseño de interface de usuario
+41,41,4,2011-07-29,Gestión de calidad en desarrollo de software
+42,42,4,2011-07-29,Teoría de control para sistemas informáticos
+43,43,5,2010-12-30,Conceptos fundamentales de Ingeniería dirigida por Modelos y Modelos de Dominio Específico
+44,44,5,2010-12-30,Modelo de Evaluación de Créditos Financieros basados en Redes Neuronales orientado a Edpymes
+45,45,5,2010-12-30,Watershed: un algoritmo eficiente y flexible para segmentación de imágenes de geles 2- DE
+46,46,5,2010-12-30,Mejorando las debilidades de RUP para la gestión de proyectos
+47,47,5,2010-12-30,Sistemas de razonamiento basado en casos aplicado a sistemas de líneas de productos software
+48,48,5,2010-12-30,Programación en N capas
+49,49,5,2010-12-30,Propuesta de desarrollo de un repositorio digital de documentos de investigación para la FISI utilizando software libre
+50,50,5,2010-12-30,Radiofrecuencia de identificación (RFID): microtecnología de gran impacto
+51,51,6,2010-07-30,Un Análisis de las Estrategias de Competición a Través de los Factores Determinantes Usando Proceso de Software Personal
+52,52,6,2010-07-30,Sistema Inteligente para Medir Volumen de Líquidos utilizando Sensores de Ultrasonido
+53,53,6,2010-07-30,Documentación de Proyectos Con UML 2
+54,54,6,2010-07-30,Sistema de apoyo a la generación de horarios basado en algoritmos genéticos
+55,55,6,2010-07-30,Procesamiento Digital de textura: Técnicas utilizadas en aplicaciones actuales de CBIR
+56,56,6,2010-07-30,Un Modelo de Gestión del Conocimiento en la Universidad Pública
+57,57,6,2010-07-30,"Fundamentos de Ingeniería de la Web: Ontologías, Web Semántica y Agentes de Software"
+58,58,6,2010-07-30,Sistemas de inferencia basados en Lógica Borrosa: Fundamentos y caso de estudio
+59,59,6,2010-07-30,Construcción del conocimiento desde un enfoque constructivista con soporte tecnológico
+60,60,6,2010-07-30,Modelo sinérgico de Total Quality Management y Soft Systems Methodology aplicable a organizaciones de servicio educativo
+61,61,7,2009-12-30,Técnicas de Segmentación en Procesamiento Digital de Imágenes
+62,62,7,2009-12-30,Reconocimiento de patrones mediante redes neuronales artificiales
+63,63,7,2009-12-30,Aplicación de la metaheurística “Búsqueda tabú” al problema de las N-reinas
+64,64,7,2009-12-30,Aplicación de las redes de Petri a la simulación discreta de sistemas
+65,65,7,2009-12-30,Procesamiento de lenguaje natural
+66,66,7,2009-12-30,Tecnologías Biométricas aplicadas a la seguridad en las organizaciones
+67,67,7,2009-12-30,Del análisis de procesos al análisis funcional
+68,68,7,2009-12-30,Evaluación de daños en viviendas causados por sismos mediante redes neuronales
+69,69,7,2009-12-30,Diseño de un algoritmo genético para la generación de conocimiento en el diagnóstico del Síndrome Autista
+70,70,7,2009-12-30,FISI LOGIC: Una nueva herramienta para sistemas de inferencia borroso
+71,71,7,2009-12-30,Perspectivas sobre como la Internet cambia las reglas de juego en la estrategia de negocios
+72,72,8,2009-07-30,Sistema Experto para la prevención de enfermedades basado en el consumo de alimentos cotidianos
+73,73,8,2009-07-30,Perspectiva epistemológica de la calidad de datos
+74,74,8,2009-07-30,"Compresión de imágenes: Fundamentos, técnicas y formatos"
+75,75,8,2009-07-30,Modelo de Gestión del Conocimiento para la Universidad Pública en el Perú
+76,76,8,2009-07-30,Árboles Biselados
+77,77,8,2009-12-30,Análisis del dominio desde una perspectiva ontológica: El caso de la Historia Clínica General Peruana
+78,78,8,2009-07-30,Implementación de un Sistema de Recuperación de Información
+79,79,9,2008-12-30,Carreras de Ciencia y Tecnología de Computación en San Marcos
+80,80,9,2008-12-30,Una Revisión de los Modelos de Tecnología de Información para las Marinas de Guerra en el Mundo
+81,81,9,2008-12-30,Una Revisión de Modelos de Evaluación de Gestión del Conocimiento
+82,82,9,2008-12-30,Manipulação  Direta Interpenetração de Curvas  com Restrições Interpenetração
+83,83,9,2008-12-30,Una Revisión de los Métodos de Pruebas para Aplicaciones Web
+84,84,9,2008-12-30,Sistema de Sectorización Basado en Densidades Delictivas para el Patrullaje Móvil del
+85,85,9,2008-12-30,Estado del Arte de Gestión de Problemas de TI
+86,86,9,2008-12-30,Tecnologías Sistema Multiagente de Simulación para la Planificación de Proyectos Software
+87,87,10,2008-07-30,Una Revisión de las Tecnologías de Información para el Balanceo de Recursos Computacionales
+88,88,10,2008-07-30,Un Algoritmo Heurístico para el problema de fusión de mesas en un proceso electoral
+89,89,10,2008-07-30,Tecnologías para el Desarrollo de Sistemas  Multiagentes
+90,90,10,2008-07-30,Una Revisión de e-Justicia: perspectiva de desarrollo y buenas prácticas
+91,91,10,2008-07-30,Un Modelo de Arquitectura de Información para el Control de la Gestión Estratégica Universitaria usando el Cuadro de Mando Integral
+92,92,10,2008-07-30,Una Revisión de las Tecnologías de Información de Contact Centers
+93,93,10,2008-07-30,Utilización de las Prácticas de Software en el Perú
+94,94,10,2008-07-30,Un Algoritmo GRASP con dos Parámetros de Relajación para el problema 3D-BIN Packing con Restricciones de Estabilidad
+95,95,11,2007-07-30,Algoritmo Grasp para la distribución eficiente de objetos en una interfaz gráfica de usuarios.
+96,96,11,2007-07-30,"Sistema multi-agente para medir la confiabilidad, disponibilidad y fiabilidad de un sistema ERP"
+97,97,11,2007-07-30,Um Clustering na Recuperacao de Componentes de Software
+98,98,11,2007-07-30,Estado del Arte de Incubadoras de Empresas de Tecnologías de la Información en Universidades
+99,99,11,2007-07-30,Un modelo de compactación de objetos irregulares bidimensionales como patrón de corte
+100,100,11,2007-07-30,Una Revisión de Modelos de Tecnologías de Información para la Vigilancia Epidemiológica
+101,101,11,2007-07-30,Una Aplicación del Método Sistemático de Resolución de Problemas para la Mejora Continua de los Procesos Administrativos en la FISCT-UIGV
+102,102,11,2007-07-30,Una Revisión de la Gestión de Servicios de Tecnologías de Información
+103,103,12,2006-12-30,A Virtual Lab for Training on Associativ Content-Addressale Memory.The Hopfield Neural Network
+104,104,12,2006-12-30,Imagery:  Virtual Lab for Computer-Aided Training on Digital lmage Processing
+105,105,12,2006-12-30,SAMI: Un Sofbot de Charla Desarrollado con Técnicas de Razonamiento basado en Casos
+106,106,12,2006-12-30,Estudio de  Metodologías  para  Desarrollo de  Sistemas  Multi-Agente
+107,107,12,2006-12-30,Sistema de Control Estratégico basado en BSC para empresas del Sector Pesquero
+108,108,12,2006-12-30,Criterios de Evaluación en los sistemas de Recuperación de Información
+109,109,12,2006-12-30,Aplicación  de un Algoritmo Genético para la Solución  de Modelos  de Inventario Estocásticos
+110,110,12,2006-12-30,Juego Humano  -  Máquina YALI2
+111,111,13,2005-12-30,MINERÍA DE USO DE WEB PARA PREDICCIÓN DE USUARIOS EN LA UNIVERSIDAD
+112,112,13,2005-12-30,UNA APLICACIÓN PRÁCTICA DEL MÉTODO DE ANÁLISIS DE PUNTOS DE FUNCIÓN
+113,113,13,2005-12-30,DISEÑO E IMPLEMENTACIÓN DE UN MODELO DE APRENDIZAJE MEDIANTE ALGORITMOS GENÉTICOS
+114,114,13,2005-12-30,IMPLANTACIÓN DE UN SISTEMA ERP EN UNA ORGANIZACIÓN
+115,115,13,2005-12-30,MÉTODOS COMPUTACIONALES ORIENTADOS A LA OBTENCIÓN DEL ÁRBOL EMST: UN APORTE AL PROBLEMA DE STEINER
+116,116,13,2005-12-30,LA WEB SEMÁNTICA
+117,117,13,2005-12-30,ESTUDIO SISTÉMICO PARA LA FORMACIÓN ACADÉMICA - PROFESIONAL DE LA INGENIERÍA DE SISTEMAS E INFORMÁTICA EN LA UNIVERSIDAD PÚBLICA: CONSTRUYENDO UN MARCO CONCEPTUAL
+118,118,14,2005-07-15,FACILITANDO LA CREACIÓN DE INDICADORES (MÉTRICAS) EN PROYECTOS DE MEJORAMIENTO DE SOFTWARE
+119,119,14,2005-07-15,GRASP EN LA RESOLUCIÓN DEL PROBLEMA DE CLUSTERING
+120,120,14,2005-07-15,DISEÑO DEL SISTEMA DE RECUPERACIÓN DE PARA LA BIBLIOTECA FISI
+121,121,14,2005-07-15,GESTIÓN DE INCONSISTENCIA EN ENTORNO MULTIPERSPECTIVA PARA EL DESARROLLO DE SOFTWARE
+122,122,14,2005-07-15,MODELO CRM PARA INSTITUCIONES EDUCATIVAS
+123,123,14,2005-07-15,REDES ACADÉMICAS AVANZADAS: CASO EN EL PERÚ
+124,124,14,2005-07-15,LOS SERVICIOS WEB EN ORGANIZACIONES ACADÉMICAS
+125,125,14,2005-07-15,ANÁLISIS COMPARATIVO ENTRE UN ANALIZADOR SINTÁCTICO LL Y UN ANALIZADOR SINTÁCTICO LR PARA UN LENGUAJE FORMAL
+126,126,14,2005-07-15,MARCO CONCEPTUAL PARA LA CONSTRUCCIÓN DE UN MODELO DE E-LEARNING
+127,127,14,2005-07-15,BÚSQUEDA ESPACIAL
+128,128,15,2004-12-30,UN ALGORITMO VORAZ PARA RESOLVER EL PROBLEMA DE LA PROGRAMACIÓN DE TAREAS DEPENDIENTES EN MÁQUINAS DIFERENTES
+129,129,15,2004-12-30,UN ANALIZADOR SINTÁCTICO EFICIENTE PARA GRAMÁTICAS DEL ESPAÑOL
+130,130,15,2004-12-30,SIMULACIÓN EN LA CAPACITACIÓN EN GESTIÓN DE NEGOCIOS
+131,131,15,2004-12-30,SERVIDOR DE PROCESOS ADMINISTRATIVOS PARA AMBIENTES HETEROGÉNEOS USANDO CÓDIGO LIBRE (SPA)
+132,132,15,2004-12-30,ESTUDIO Y EVALUACIÓN DE LOS SISTEMAS DE RECUPERACIÓN DE INFORMACIÓN
+133,133,15,2004-12-30,"ALGORITMOS GENÉTICOS, SUS PROPUESTAS DE APLICACIÓN: APRENDIZAJE CORPORATIVO"
+134,134,15,2004-12-30,SISTEMAS EXPERTOS PARA REALIZACIÓN DE DIAGNÓSTICO PARÁLISIS FACIAL CON ELECTROMIOGRAFÍA: PARFAC
+135,135,15,2004-12-30,ESTUDIO DE TÉCNICAS BASADAS EN PUNTOS DE FUNCIÓN PARA LA ESTIMACIÓN DEL ESFUERZO EN PROYECTOS SOFTWARE
+136,136,15,2004-12-30,SIMULACIÓN DE CONDUCCIÓN DE UN MÓVIL USANDO LÓGICA DIFUSA
+137,137,15,2004-12-30,UN MODELO PERUANO DE EDUCACIÓN VIRTUAL: EL CASO DE LA UNIVERSIDAD VIRTUAL DE LA UNMSM
+138,138,15,2004-12-30,GESTIÓN DEL CONOCIMIENTO Y DE TECNOLOGÍAS DE INFORMACIÓN EN LA UNIVERSIDAD PERUANA
+139,139,15,2004-12-30,TEORÍA DE LA COMPLEJIDAD COMPUTACIONAL Y TEORÍA DE LA COMPUTABILIDAD
+140,140,15,2004-12-30,GLOBALISMO FRENTE A REDUCCIONISMO EN LA LENGUA Y EL HABLA
+141,141,16,2021-09-30,Modelo predictivo para la detección temprana de estudiantes con alto riesgo de deserción académica
+142,142,16,2021-09-30,Predicción de mortalidad a causa del Covid 19 en Perú utilizando redes neuronales artificiales
+143,143,16,2021-09-30,Propuesta de un plan de seguridad de la información para incrementar la fiabilidad de datos en una financiera
+144,144,16,2021-09-30,Aplicación de regresión logística para la predicción de demanda por especialidad médica en consulta externa hospitalaria
+145,145,16,2021-09-30,Predicción de hipertensión arterial a través de un sistema de regresión logística
+146,146,16,2021-09-30,Sistema para proponer la nota final de los estudiantes mediante Redes Neuronales
+147,147,16,2021-09-30,Selección de una red social para apoyar la docencia universitaria empleando computación con palabras
+148,148,17,2021-03-30,Design Thinking aplicado al Diseño de Experiencia de Usuario
+149,149,17,2021-03-30,Componente de revisión de estándar de arquitectura de datos para el gestor de bases de datos SQLite
+150,150,17,2021-03-30,Clasificador de estrellas de Neutrones con una red neuronal multicapa utilizando R
+151,151,17,2021-03-30,Aplicación del método Design Thinking en el área de requerimientos de software
+152,152,17,2021-03-30,Construcción de Dispositivo de Hardware Libre para Interacción en Entornos 3D
+153,153,17,2021-03-30,Proyecto de gestión de redes en BioCen
+154,154,18,2020-09-30,Gestión de la Configuración y el Cambio en Proyectos de Servicios de TI
+155,155,18,2020-09-30,MPI vs OpenMP: Un caso de estudio sobre la generación del conjunto de Mandelbrot
+156,156,18,2020-09-30,Resolución paralela de sistemas triangulares
+157,157,18,2020-09-30,Design Thinking en la Planificación de Pruebas de Software
+158,158,18,2020-09-30,Sistema para la Evaluación Integral Estudiantil
+159,159,18,2020-09-30,Aplicación de software gamificada en la asignatura Teleinformática
+160,160,19,2020-03-30,Optimización de los procesos de producción en la industria de la confección de prendas de vestir utilizando simulación de eventos discretos
+161,161,19,2020-03-30,QuantityEr: Una solución simple y extensible para obtener la cantidad de resultados de consultas complejas a GitHub
+162,162,19,2020-03-30,Aplicación de métodos numéricos utilizando MATLAB al modelado del fármaco AZT y la supervivencia con SIDA
+163,163,19,2020-03-30,Simulación del proceso de desarrollo de software: una aproximación con Dinámica de Sistemas y el Método de Larman
+164,164,19,2020-03-30,Componente de indexación de huellas dactilares basado en características globales
+165,165,20,2018-10-31,Modelo de interoperabilidad federado para el intercambio de datos en el sector justicia peruano
+166,166,20,2018-10-31,Diseño de un sistema de recomendación de libros y tesis basado en ontologías asociadas a tesauros: el caso de las bibliotecas de la UNMSM
+167,167,20,2018-10-31,Modelo de elaboración de una lista corta de técnicas candidatas para la priorización de requisitos
+168,168,20,2018-10-31,Incertidumbre de datos geoespaciales en la exploración petrolera
+169,169,21,2019-12-17,Factores que influyen en implementación de prácticas para el alineamiento estratégico de TI en el sector público
+170,170,21,2020-02-28,Método basado en la programación por capas para generar código automático desde el diagrama de clases
+171,171,21,2020-02-28,Modelo de gestión de riesgos de seguridad de la información: Una revisión del estado del arte
+172,172,22,2020-12-17,"Desarrollo de sistema Web basado en los frameworks de Laravel y VueJs, para la gestión por procesos: Un estudio de caso"
+173,173,22,2020-12-17,Construcción del conocimiento alrededor de sistemas híbridos fotovoltaicos mediante Descubrimiento basado en la literatura
+174,174,22,2020-12-17,Modelo de Tecnologías de Información para la captación del talento deportivo en centros escolares peruanos
+175,175,22,2020-12-31,Modelamiento y Simulación de Redes de Transporte Urbano: Seis Casos en Lima
+176,176,23,2018-07-10,Acerca de computación y sus líneas de investigación
+177,177,23,2018-07-10,Balance de línea de producción en una empresa de calzado mediante la metaheurística búsqueda tabú
+178,178,23,2018-07-10,Un modelo de self-management para mejorar la eficiencia de la productividad en la administración de una base de datos
+179,179,23,2018-07-10,Modelo basado en Análisis Envolvente de Datos (DEA) para medir la competitividad de las manufactureras peruanas del sector textil
+180,180,23,2018-07-10,Modelo de gestión de riesgos de seguridad de la información para PYMES peruanas
+181,181,24,2019-07-04,Interoperabilidad de Historias Clínicas Electrónicas en el Perú
+182,182,24,2019-07-04,Sistema Experto Probabilístico basado en Redes Bayesianas para la predicción del cáncer de cuello uterino
+183,183,24,2019-07-04,Método para la evaluación de la Usabilidad del Software del Voto Electrónico Presencial – UsabVEP
+184,184,24,2019-07-10,Políticas para reducir el problema (no percibido) de las personas ubicadas en Áreas Vulnerables
+185,185,25,2020-07-20,Modelo de calidad en uso para portales web bancarios en el Perú
+186,186,25,2020-07-20,Aplicación del Modelo de Aceptación Tecnológica en Sistemas de Información de la Administración Pública del Perú
+187,187,26,2021-07-28,Detección de fallas de arco eléctrico en redes eléctricas domesticas AC basado en el análisis de la tensión y corriente
+188,188,26,2021-07-28,Un Articulación De Arquetipos Organizacionales Con Base A Raúl Espejo Y Peter Senge
+189,189,26,2021-07-28,Gestión De Una Red Eléctrica De Distribución Ante Desastres A Partir De  Recursos Energéticos Distribuidos
+190,190,26,2021-07-28,Reducción  De La Dbo5 Y Coliformes Termotolerantes Mediante La Electroquimica En Aguas Servidas Domésticas Del Citrar-Uni-Perú
+191,191,26,2021-07-28,Desarrollo de una interfaz gráfica para el cálculo de series de Fourier en Matlab
+192,192,26,2021-07-28,Propuesta De Mejoramiento De La Productividad De Las Pymes Transformadoras De Plástico Del Barrio Carvajal De Bogotá Mediante El Modelo De Productividad Gte.
+193,193,26,2021-07-28,Las Habilidades Blandas Factor Clave Para El Desempeño De Los Ingenieros 
+194,194,26,2021-07-28,"Identificación del Potencial de Recarga Hídrica en La Microcuenca Samincheni, Pichanaki – Perú"
+195,195,26,2021-07-28,Análisis Físico-Matemático del Retorno de Corrientes de Falla a Tierra hacia el Transformador de Distribución en sistema IT 
+196,196,26,2021-07-28,Modelo de análisis económico para proyectos dendroenergéticos: Metodología y resultados preliminares.
+197,197,27,2021-01-28,Columna Falsa De Cargadores De Celulares Libre De Baldosas Piezoeléctrica Para La Biblioteca De La Universidad Nacional Tecnológica De Lima Sur
+198,198,27,2021-01-28,Simulación de una Red Móvil 5G en la Ciudad de Bogotá
+199,199,27,2021-01-28,Diseño Y Simulación De Un Robot Humanoide De Servicio Para Los Laboratorios De Control - Automatización Y Telecomunicaciones De La Universidad Nacional Tecnológica De Lima Sur
+200,200,27,2021-01-28,Caracterización de regiones espacialmente homogéneas de monóxido de carbono en Lima Metropolitana mediante el algoritmo de clustering k-means
+201,201,27,2021-01-28,"Modelo De Sistema Viable Modelo De Articulación Del Sistema De Gestión Integral HSEQ Bajo Los Criterios De Las Normas ISO 9001:2015, ISO 14001: 2015 E ISO 45001:2018"
+202,202,27,2021-01-28,"Modelo Problema/Solución/Producto/Proyecto, Propuesta Para Acercar La Academia A La Problemática De La Sociedad"
+203,203,27,2021-01-28,Utilización De Flujograma Basado En Tablas De Normativa Iec 60364-5-52:2009 Para El Cálculo De Sección De Cables En Baja Tensión Con Aplicación En El Pabellón B De La Untels  
+204,204,27,2021-01-28,Prototipo Basado En Lenguaje Ensamblador Para La Transferencia De Datos Por Medio De Ondas De Radio Frecuencia En Campo Abierto
+205,205,28,2021-12-31,Las pantallas acústicas como solución a la contaminación sonora en el paradero Benavides
+206,206,28,2021-12-31,Resiliencia en Edificaciones con Aisladores Sísmicos
+207,207,28,2021-12-31,Planificación y desarrollo de ciudades inteligentes utilizando herramientas “BIM”: un enfoque integral de gestión
+208,208,28,2021-12-31,Diseño de calculadora en MatLab para evaluar máquinas eléctricas estáticas en Laboratorio Virtual
+209,209,28,2021-12-31,Diseño de una Red GPON aplicada a un sistema de comunicaciones de buses de transporte de alta velocidad (BRT)
+210,210,28,2021-12-31,Entorno de alta incertidumbre para la empresa en el Perú: el caso de exploración y producción de hidrocarburos en el sector privado
+211,211,28,2021-12-31,Robot hexápodo controlado por radio frecuencia para la búsqueda de personas atrapadas en derrumbes en zonas urbanas del Perú
+212,212,28,2021-12-31,Diseño de un robot cartesiano para la medición de temperatura corporal y detección de mascarilla facial mediante sensores infrarrojos y visión artificial para prevenir el contagio del COVID-19
+213,213,29,2020-12-31,Evaluación de riesgo de deslizamientos y propuesta geotécnica de la trocha Ayash-Huaripampa tramo km 3+260 al km 3+300
+214,214,29,2020-12-31,La atenuación de las guías de ondas circulares con dieléctrico de aire
+215,215,29,2020-12-31,Modelización de interfaces adaptativas a partir de aprendizaje de perfiles de usuario web mediante gramáticas probabilísticas
+216,216,29,2020-12-31,"Diseño y manufactura de un prototipo de escudo facial con respirador que evite el contagio del covid-19"" 1ª Etapa"
+217,217,29,2020-12-31,"Técnica de gamma scanning para el diagnóstico en operación, de equipos de refinación de petróleo y gas natural"
+218,218,29,2020-12-31,"Robot telecontrolado aplicado en la mitigación de incendios para la Estación de Bomberos Voluntarios Victoria N° 08, Lima-Perú"
+219,219,29,2020-12-31,Determinación de cultivos agrícolas y firmas espectrales mediante el procesamiento de imágenes satelitales utilizando el método de clasificación supervisada
+220,220,29,2020-12-31,Robot explorador para la detección de metales en entornos mineros
+221,221,29,2020-12-31,El psicodiagnóstico de Rorschach desde una perspectiva interdisciplinaria
+222,222,30,2020-10-25,"Contaminación sonora en el paradero Benavides, en la ciudad de Lima, y el impacto en poblaciones aledañas"
+223,223,30,2020-10-25,Reciclaje de residuos por demolición de edificaciones menores y desarrollo sostenible en el distrito de Jesús María
+224,224,30,2020-10-25,Polarización en redes sociales ayuda a  que los influencers tengan más influencia: análisis y dos estrategias de inoculación
+225,225,30,2020-10-25,Evaluación de aeroenfriadores de una planta de fraccionamiento de líquidos de gas natural por medio de radiotrazadores
+226,226,30,2020-10-25,Prototipo Pick and Place Machine
+227,227,30,2020-10-25,Quiz: sistema de gestión de colas y una aplicación para tráfico en carreteras con peaje
+228,228,30,2020-10-25,Sistema de realidad virtual para el  tratamiento de fobias para psicólogos
+229,229,30,2020-10-25,Proceso de enseñanza-aprendizaje en asignaturas de investigación para el desarrollo de tesis de los egresados de la escuela de ingeniería mecatrónica en la Universidad Ricardo Palma
+230,230,30,2020-10-25,Computer science qualifying exam:  a case study on improving student success and program quality
+231,231,31,2019-10-14,Es necesario revisar el proyecto de la línea 2 del tren eléctrico de Lima
+232,232,31,2019-10-14,Desarrollo de un sistema embebido basado en lógica difusa para el reconocimiento del estado de ebriedad en conductores orientado al bloqueo del arranque de un vehículo
+233,233,31,2019-10-14,3D stacked imager and digital coupling noise
+234,234,31,2019-10-14,Nuevas tecnologías en el desarrollo de celdas solares
+235,235,31,2019-10-14,Aporte en las metodologías matemáticas para mejorar la comprensión y calidad de video
+236,236,31,2019-10-14,Análisis y comentarios sobre la aplicación de los instrumentos para arancelarios (IPAS) durante el gobierno de  DE ALAN GARCÍA (1995-1990)
+237,237,31,2019-10-14,Estructuración organizacional: Un enfoque sistémico
+238,238,31,2019-10-14,Evaluación de fugas y pases en rehervidores de plantas de fraccionamiento de gas natural
+239,239,31,2019-10-15,Recuperación de textos electrónicos mediante índices invertidos
+240,240,31,2019-10-15,Diseño y simulación de un brazo robótico de 5GDL adaptado en una silla de ruedas eléctrica para la autoasistencia de  pacientes con parálisis cerebral espástica
+241,241,31,2019-10-15,Sistema de comunicación industrial para el monitoreo de las estaciones de estaciones de água potable en Cieneguilla-Lima
+242,242,31,2019-10-15,Vigencia de la metodología vigotskiana de la motivación del aprendizaje
+243,243,32,2018-06-08,Investigación geotécnica para la red del Metro de Lima
+244,244,32,2018-06-08,Propuesta metodológica para la delimitación de fajas marginales de los ríos
+245,245,32,2018-06-08,La concesión de los megaproyectos en el Perú
+246,246,32,2018-06-08,Diseño de un sistema electrohidráulico de simulación sísmica en la universidad Ricardo Palma
+247,247,32,2018-06-08,Las crisis y sus repercusiones en la ingeniería electrónica: La historia jamás contada
+248,248,32,2018-06-08,Overview of radiotracer experiments for better understanding of wastewater and water treatment plants in Lima (Perú)
+249,249,32,2018-06-08,Métodos y estándares en la fabricación de platinas
+250,250,32,2018-06-08,Clasificación de textos informáticos mediante indexación semántica latente
+251,251,32,2018-06-08,Los riesgos de seguridad de websites y sus efectos en la gestión de información de medianas empresas de Lima Metropolitana
+252,252,32,2018-06-08,Reingeniería de los blowers del sistema de frenado de un camión electríco de 320 toneladas de carga para minería en el altiplano peruano
+253,253,32,2018-06-08,Estrategias para comercializar energía renovables en el mercado eléctrico peruano
+254,254,32,2018-06-08,Domótica mediante la transmisión de datos digitales por la red eléctrica usando protocolo X10
+255,255,33,2017-08-29,"Rasgos geológicos del Río Rímac, abastecimiento de agua en su cono de deyección"
+256,256,33,2017-08-29,Comportamiento del suelo tropical peruano
+257,257,33,2017-08-29,Cultivo hidropónico de espinaca mediante técnica NFT e invernadero para el control de variables ambientales
+258,258,33,2017-08-29,Diseño de front-end de receptor óptimo de alta ganancia y eficiencia de potencia en 0.13 μm de tecnología CMOS de RF para aplicaciones de 10GBPS
+259,259,33,2017-08-29,Diseño de un Amplificador de potencia CMOS de Clase 1 para Aplicaciones Bluetooth
+260,260,33,2017-08-29,El gobierno electrónico y los servicios  públicos del marco legal  español
+261,261,33,2017-08-29,Competitividad del comercio exterior peruano
+262,262,33,2017-08-29,Metodologías aplicables a la determinación de velocidad y dirección del flujo de aguas subterráneas mediante trazadores artificiales
+263,263,33,2017-08-29,"Simulación del Flujo de camiones en el proceso de embarque de minerales propuestos en el terminal portuario del Callao, Perú"
+264,264,33,2017-08-29,Sistema de aprendizaje basado en entornos hipermedia adaptativos
+265,265,33,2017-08-29,Modelo objeto-requerimiento-actividad para modelar flujos de trabajo para la gestión de requerimientos de desarrollo del producto en la industria de la confección
+266,266,33,2017-08-29,Desarrollo de una aplicación móvil de seguridad ciudadana en el Perú utilizando informática forense
+267,267,33,2017-08-29,Diseño e implementación de un robot híbrido teleoperado con Simulink y un web server embebido en Raspberry PI
+268,268,33,2017-08-29,Educación en aulas hospitalarias
+269,269,34,2016-11-23,Semblanza de un gran amigo: el Dr. Ing. Óscar Penny Cabrera
+270,270,34,2016-11-23,Premio “RCE Award for Outstanding Flagship Project” de la Universidad de las Naciones Unidas para el Diplomado en Biodiversidad y Saberes Interculturales
+271,271,34,2016-11-23,Innóvate y la Universidad Ricardo Palma Proyecto ganador - FINCyT
+272,272,34,2016-11-23,La deformación permanente en las mezclas asfálticas y el consecuente deterioro de los pavimentos asfálticos en el Perú
+273,273,34,2016-11-23,"Interpretación hidrogeológica con modelación numérica en masas geológicas del deslizamiento ""Derrumbe 1"" – Complejo hidroeléctrico del Mantaro"
+274,274,34,2016-11-23,"Historia y teoría del radar, capítulo 1"
+275,275,34,2016-11-23,Experiencia peruana en el despliegue de la infraestructura de las comunicaciones móviles
+276,276,34,2016-11-23,Procesamiento digital de imágenes para estimación de velocidad y medición de flujo vehicular
+277,277,34,2016-11-23,El neuromarketing y la ingeniería del branding
+278,278,34,2016-11-23,Explotación de los yacimientos de fosfatos en Bayóvar
+279,279,34,2016-11-23,Diagnóstico del déficit de capacidad institucional de los procesos para el rediseño organizacional en el sector público
+280,280,34,2016-11-23,Algunas propuestas de inteligencia competitiva para las pequeñas y medianas empresas del Perú
+281,281,34,2016-11-23,Sistema de publicidad por proximidad mediante tecnología blutooth como estrategia para aumentar las ventas en la empresa Luicam Touch Exclusive
+282,282,34,2016-11-23,Modelización de una interfaz hombre - máquina mediante comunicación electrooculográfica representada mediante código de Huffman para personas con discapacidad de esclerosis lateral amiotrófica
+283,283,34,2016-11-23,Control de un brazo robótico antropomórfico con 6 grados de libertad teleoperado para la seguridad industrial en el Perú
+284,284,34,2016-11-23,Robot Da Vinci: El quirófano del futuro
+285,285,34,2016-11-23,Proyecto Alfa III USO+I: Experiencia de cooperación y mejora de la pertinencia de las ingenierías en Latinoamérica
+286,286,35,2021-12-21,"Implementación de un sistema de monitoreo a nivel de prototipo de signos vitales: pulso, temperatura y saturación de oxígeno para pacientes"
+287,287,35,2021-12-21,Relación de la gestión de riesgos y calidad de software realizados por los profesionales del Colegio de Ingenieros del Perú del Consejo Departamental de Lima
+288,288,35,2021-12-21,Calidad de datos en sistemas de gestión académica universitaria basado en ISO/IEC 25012
+289,289,35,2021-12-21,EchartsTag para generación de charts usando Taglib
+290,290,35,2021-12-21,"Evaluación de la usabilidad percibida de Google Classroom, Drive y Meet en el proceso de enseñanza y  aprendizaje de la Universidad Nacional de San Antonio Abad del Cusco durante la pandemia del COVID-19"
+291,291,35,2021-12-21,SaminBot: un asistente virtual para recolectar datos durante la pandemia del COVID-19
+292,292,35,2021-12-22,Comportamiento de enfermedades epidémicas a través del modelo matemático SIR: una revisión de la literatura
+293,293,35,2021-12-22,La usabilidad percibida de los chatbots sobre la atención al cliente en las organizaciones: una revisión de la literatura
+294,294,36,2020-12-22,Uso no estándar e implementación exitosa del Protocolo I2C para un Sistema de Medición de Temperatura en Aldeas Andinas a gran altitud
+295,295,36,2020-12-22,Revisión de literatura sobre las barreras a la transformación digital y su relación con el rendimiento financiero
+296,296,36,2020-12-22,Software in the Loop para la implementación de un sistema de piloto automático para aeronaves de ala fija
+297,297,36,2020-12-22,Modelo Balanced Scorecard para los controles críticos de seguridad informática según el Center for Internet Security (CIS)
+298,298,36,2020-12-22,Comparación de técnicas de machine learning para detección de sitios web de phishing
+299,299,37,2019-12-09,Método de procesamiento de lenguaje natural y técnicas de minería de datos aplicadas a la clasificación de incidentes informáticos
+300,300,37,2019-12-09,Predicción de deserción laboral utilizando un algoritmo genético y redes neuronales artificiales
+301,301,37,2019-12-09,Predicción de postulantes que cometerán fraude interno en una compañía con algoritmos de aprendizaje supervisado
+302,302,37,2019-12-09,Sistema de reconocimiento de gestos faciales captados a través de cámaras para analizar el nivel de satisfacción de clientes en restaurantes
+303,303,37,2019-12-09,Programación por objetivos para el dimensionamiento y la asignación de una flota de camiones en una empresa minera
+304,304,38,2018-12-03,Técnicas de inteligencia artificial para optimizar la eficiencia del procedimiento de selección para la contratación de obras públicas
+305,305,38,2018-12-03,Dimensionamiento de flota en las operaciones de carguío y transporte usando modelos de simulación de sistemas
+306,306,38,2018-12-03,Automatización de requisitos: Historias de usuario generadas a partir de un modelo orientado a objetivos basado en el framework i*
+307,307,38,2018-12-03,Designing uncomplicated software
+308,308,38,2018-12-03,Beneficios de la implementación de un sistema de telemetría para la gestión de las operaciones mineras
+309,309,38,2018-12-03,Evaluación experimental de un modelo de programación lineal para el problema de ruteo de vehículos (VRP)
+310,310,38,2018-12-03,Revisión de la capacidad de transparencia y confianza que ofrece la tecnología blockchain
+311,311,38,2018-12-03,"Urban logistics and spatial territorial intelligence indicators: State-of-the-art, typology and implications for Latin American cities"
+312,312,39,2017-12-18,El procesamiento de imágenes y su potencial aplicación en empresas con estrategia digital
+313,313,39,2017-12-18,"Llave electromagnética con combinación de un dígito para accionamiento de un servomotor, usando Arduino y Simulink"
+314,314,39,2017-12-18,Propuesta de modelo de mejora para mypes productoras de software
+315,315,39,2017-12-18,Guía para el diseño de un plan estratégico de marketing para el incremento de profesionales mujeres en las tecnologías de información
+316,316,39,2017-12-18,Integración de procesos de negocio aplicando la arquitectura orientada a servicios (SOA)
+317,317,39,2017-12-18,Una revisión de la educación universitaria en Norte y Sur América
+318,318,39,2017-12-18,Revisión sistemática de la literatura de la automatización de procesos de negocio
+319,319,39,2017-12-18,Revisión de algoritmos de verificación automática de firmas off-line
+320,320,39,2017-12-18,Bosques aleatorios como extensión de los árboles de clasificación con los programas R y Python
+321,321,39,2017-12-18,Implementación de la metodología agile data warehouse en el Banco de Crédito del Perú (BCP)
+322,322,40,2016-03-29,Diseño de vibrómetro con Arduino y Simulink
+323,323,40,2016-03-29,Desarrollo de un sistema de soporte de decisiones para una empresa de transporte. Una aplicación del revenue management y de la programación no lineal
+324,324,40,2016-03-29,Filogenia de malware orientada al análisis de librerías
+325,325,40,2016-03-29,Modelo de referencia de gobierno de las tecnologías de la información para instituciones universitarias
+326,326,40,2016-03-29,Sistema de información de emisiones de co2
+327,327,40,2016-03-29,Sistema web para la administración de atenciones médicas y monitoreo de la unidad de triaje en el hospital nacional Cayetano Heredia
+328,328,40,2016-03-29,Modelo de procesos para el desarrollo del front-end de aplicaciones web
+329,329,40,2016-03-29,Aplicativo Android datalogger serial-USB para sistemas embebidos
+330,330,40,2016-03-29,Modelo de gestión de incidentes para una entidad estatal
+331,331,41,2015-04-04,Beneficios de implementar un clúster de bases de datos Oracle en los servicios críticos de las tecnologías de información
+332,332,41,2015-04-04,Un enfoque bayesiano de planeación agregada orientado all retail marketing
+333,333,41,2015-04-04,El papel de la supercomputación en la investigación: astrofísica de núcleos galácticos y agujeros negros
+334,334,41,2015-04-04,Propuesta de un proceso de investigación cuantitativa. Aplicación en la caracterización de las mypes productoras de software
+335,335,41,2015-04-04,Implementación de un data center académico virtualizado
+336,336,41,2015-04-04,Competencias profesionales demandadas en el mercado laboral peruano
+337,337,41,2015-04-04,Implementación de aplicaciones isomórficas con Javascript
+338,338,41,2015-04-04,Una mirada al big data y al análisis de conjuntos
+339,339,42,2014-02-25,Alternativas para la escalabilidad de aplicaciones en plataformas web de alta concurrencia
+340,340,42,2014-02-25,¿Cuántas mesas debo tener? Sistemas de soporte de decisiones para la gestión de restaurantes
+341,341,42,2014-02-25,Análisis de confiabilidad y del tiempo de vida de las lámparas del parque de alumbrado público de la zona norte de Lima metropolitana
+342,342,42,2014-02-25,Kipu: hilos ligeros para Java
+343,343,42,2014-02-25,Software nativo basado en C++ para aplicaciones de ingeniería. Una alternativa de alto rendimiento en comparación con el software gestionado
+344,344,42,2014-02-25,La evolución del planeamiento de ventas y operaciones
+345,345,42,2014-02-25,Beneficios del modelo As a service en las pymes
+346,346,42,2014-02-25,La gestión del conocimiento en el siglo XXI
+347,347,43,2013-10-11,Manejo de proyectos virtuales de sistemas en países en desarrollo
+348,348,43,2013-10-11,¿Por qué implementar aplicaciones móviles en las empresas? Consideraciones para realizarlo exitosamente
+349,349,44,2012-02-25,Redes neuronales para la optimización de la gestión del riesgo empresarial
+350,350,44,2012-02-25,Análisis Comparativo de modelos de clasificación en el estudio de la deserción universitaria
+351,351,44,2012-02-25,Modelo de simulación para programar y controlar los recursos en una gestión hospitalaria
+352,352,44,2012-02-25,"Sistemas lineales dinámicos invariantes en series cronológicas, con aplicaciones a estudios acuáticos y climatológicos del Perú"
+353,353,44,2012-02-25,Aplicaciones con soporte para comunicaciones: Un enfoque práctico
+354,354,45,2011-02-25,Riesgos y controles en los proyectos de implementación de ERP
+355,355,45,2011-02-25,Aproximación teórica a las bases de una estrategia tecnológica orientada a la reducción del riesgo de desastres en América Latina y el Caribe
+356,356,46,2008-02-25,Fábrica Académica de Software
+357,357,46,2008-02-25,"El Outsourcing, sus efectos en la reducción de costos y el incremento del valor"
+358,358,46,2008-02-25,"Integración Empresarial, una posición estratégica"
+359,359,47,2007-02-25,Ransa: Exportación de conocimientos logísticos
+360,360,47,2007-02-25,Gestión de seguridad en redes corporativas
+361,361,47,2007-02-25,Técnicas de inteligencia artificial aplicadas a la confección de horarios
+362,362,47,2007-02-25,Sistema para el análisis estadístico con técnicas multivariadas del rendimiento académico de los estudiantes de una institución de enseñanza superior
+363,363,48,2006-02-25,Tecnología al servicio de la empresa y de la sociedad
+364,364,48,2006-02-25,Arquitectura de integración orientada a servicios
+365,365,48,2006-02-25,La Expansión del Canal de Panamá
+366,366,48,2006-02-25,Modelo sistémico del impacto del gas natural en el desarrollo sustentable del Perú
+367,367,48,2006-02-25,Cerrando brechas entre el marketing y las tecnologías de información
